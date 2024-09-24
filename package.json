@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/mrdoob/stats.js",
   "devDependencies": {
-    "rollup": "^2.3.2",
+    "rollup": "^3.29.5",
     "google-closure-compiler": "20200224.0.0"
   }
 }
